@@ -1,0 +1,7 @@
+.screen {
+  border: 2px solid black;
+}
+
+#mapScreenContainer {
+  margin-bottom: 20px;
+}
